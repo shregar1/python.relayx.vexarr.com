@@ -12,5 +12,9 @@ authors = [{ name = "RelayX" }]
 license = { text = "Apache-2.0" }
 keywords = ["relayx", "ai", "gateway", "openai", "llm"]
 
+[project.urls]
+Homepage = "https://relayx.vexarr.com"
+Repository = "https://github.com/shregar1/python.relayx.vexarr.com"
+
 [tool.setuptools.packages.find]
 include = ["relayx*"]
